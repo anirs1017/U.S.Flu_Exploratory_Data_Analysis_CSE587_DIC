@@ -1,0 +1,12 @@
+name: DICLab1
+title: DICLab1
+username:
+account: sdhar2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 777633
+bundleId: 1926874
+url: https://sdhar2.shinyapps.io/DICLab1/
+when: 1552101796.49632
+asMultiple: FALSE
+asStatic: FALSE
